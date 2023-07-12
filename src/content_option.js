@@ -25,19 +25,19 @@ const dataabout = {
 };
 const worktimeline = [
   {
-    jobtitle: "Project of week",
-    where: "YAdfi",
-    date: "2020",
+    jobtitle: "This Week's Project",
+    where: "Canada",
+    date: "2021",
   },
   {
-    jobtitle: "Project of week",
-    where: "Jamalya",
-    date: "2019",
+    jobtitle: "This Week's Project",
+    where: "Germany",
+    date: "2022",
   },
   {
-    jobtitle: "Project of week",
-    where: "ALquds",
-    date: "2019",
+    jobtitle: "This Week's Project",
+    where: "Italy",
+    date: "2023",
   },
 ];
 
@@ -99,12 +99,12 @@ const services = [
   {
     title: "Front-End Developer React JS",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I have a proven track record of success in developing high-quality React JS applications that meet the needs of my clients. I am passionate about React JS, and I am committed to providing my clients with the best possible service.",
   },
   {
     title: "Wesbite and Mobile Application Testing",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+      "I am a proficient website and mobile application tester with 3+ years of experience. I am proficient in a variety of testing methodologies, including functional testing, usability testing, and performance testing. I have experience testing websites and mobile applications for a variety of clients.",
   },
 ];
 
