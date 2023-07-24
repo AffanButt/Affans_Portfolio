@@ -14,14 +14,15 @@ const introdata = {
       "I'm a SQA Engineer and Analyst with Strong Project Management Skills'",
   },
   description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-  your_img_url: "https://images.unsplash.com/flagged/photo-1574885173944-c23db8159846?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
+    "I am M Affan Butt, an ambitious and self-motivated Project Manager and QA professional with more than 3 years of experience",
+  your_img_url:
+    "https://images.unsplash.com/flagged/photo-1574885173944-c23db8159846?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=435&q=80",
 };
 
 const dataabout = {
   title: "About Myself",
   aboutme:
-   "Hi, I am M Affan Butt, an ambitious and self-motivated Project Manager and QA professional with more than 3 years of experience.I'm an ISTQB-certified tester. I have been providing my services to a Canadian Software Company BBITS.SOLUTIONS and delivered them with my remarkable services as an SQA Tester and Engineer.",
+    "Hi, I am M Affan Butt, an ambitious and self-motivated Project Manager and QA professional with more than 3 years of experience.I'm an ISTQB-certified tester. I have been providing my services to a Canadian Software Company BBITS.SOLUTIONS and delivered them with my remarkable services as an SQA Tester and Engineer.",
 };
 const worktimeline = [
   {
@@ -90,7 +91,7 @@ const services = [
     description:
       "I am a GOOGLE CERTIFIED Project Manager with 4 years of experience having strong understanding of Project Management principles and I am proficient in a variety of Project Management tools and I'm able to successfully manage projects of all sizes and complexities.I am skilled in using a variety of project management methodologies, including Waterfall, Agile, and Scrum. I am also familiar with the latest project management technologies. I have a proven track record of success in delivering projects on time, on budget, and to the required quality standards. I am passionate about project management, and I am committed to ensuring that projects are successful.",
   },
-  
+
   {
     title: "Functionality Testing",
     description:
@@ -110,22 +111,22 @@ const services = [
 
 const dataportfolio = [
   {
+    img: "https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYnNpdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fHdlYnNpdGV8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+  },
+  {
+    img: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
+    description:
+      "The wisdom of life consists in the elimination of non-essentials.",
+    link: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1169&q=80",
+  },
+  {
     img: "https://picsum.photos/400/?grayscale",
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/800/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
+    link: "www.google.com",
   },
   {
     img: "https://picsum.photos/400/600/?grayscale",
@@ -154,30 +155,6 @@ const dataportfolio = [
   },
   {
     img: "https://picsum.photos/400/300/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/550/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/?grayscale",
-    description:
-      "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-  },
-  {
-    img: "https://picsum.photos/400/700/?grayscale",
     description:
       "The wisdom of life consists in the elimination of non-essentials.",
     link: "#",
@@ -189,15 +166,16 @@ const contactConfig = {
   YOUR_FONE: "0333-5754446",
   description:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
-  // creat an emailjs.com account
-  // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
+
+  // created an emailjs.com account
+
   YOUR_SERVICE_ID: "service_ynnwoik",
   YOUR_TEMPLATE_ID: "template_ss0xvuf",
   YOUR_USER_ID: "Mcih_6NLt-AyGx_QS",
 };
 
 const socialprofils = {
-  github: "https://github.com",
+  github: "https://github.com/AffanButt/Affans_Portfolio",
   facebook: "https://facebook.com",
   linkedin: "https://linkedin.com",
   twitter: "https://twitter.com",
